@@ -1,2 +1,1 @@
-#!/bin/bash
-betty hello
+#!/bin/bash\guillaume betty hello
