@@ -1,1 +1,1 @@
-my name is betty
+Create a script that changes your user ID to betty.
