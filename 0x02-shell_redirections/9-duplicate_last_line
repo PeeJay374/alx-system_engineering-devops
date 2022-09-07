@@ -1,2 +1,3 @@
 #!/bin/bash
-tail -l iacta >> iacta
+find ./* -type d -print | wc -l
+
